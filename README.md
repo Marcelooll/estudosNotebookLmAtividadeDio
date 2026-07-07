@@ -1,4 +1,5 @@
 # Caderno Temático: Dominando o Ecossistema Java 21+ e Spring Boot
+https://notebooklm.google.com/notebook/64a1e8c6-1edd-4b1a-9f1d-ec352de006c6
 
 ## 📋 Contexto e Objetivos
 
